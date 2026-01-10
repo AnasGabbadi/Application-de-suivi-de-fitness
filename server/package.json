@@ -1,0 +1,56 @@
+{
+  "name": "mern_project",
+  "version": "1.0.0",
+  "description": "Application de suivi de fitness - Projet MERN Stack",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "test": "cross-env NODE_ENV=test jest --detectOpenHandles --forceExit",
+    "test:watch": "cross-env NODE_ENV=test JEST_WATCH=true jest --watchAll --runInBand",
+    "test:coverage": "cross-env NODE_ENV=test jest --coverage",
+    "seed": "node src/scripts/seed.js",
+    "seed:clean": "node src/scripts/seed.js --clean"
+  },
+  "keywords": [
+    "fitness",
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs"
+  ],
+  "author": "GABBADI",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.2",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.12",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "cross-env": "^10.1.0",
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.11",
+    "supertest": "^7.2.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": ["/node_modules/"],
+    "testMatch": ["**/__tests__/**/*.test.js"],
+    "testTimeout": 10000,
+    "verbose": true,
+    "maxWorkers": 1
+  }
+}
