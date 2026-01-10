@@ -81,7 +81,7 @@ FitTrack est une application web moderne permettant aux utilisateurs de :
 ### 1. Cloner le repository
 
 ## bash
-git clone https://github.com/votre-username/fittrack.git
+git clone https://github.com/AnasGabbadi/fittrack.git
 cd fittrack
 
 ### 2. Installer les dépendances Backend
