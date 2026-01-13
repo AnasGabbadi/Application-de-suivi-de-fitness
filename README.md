@@ -164,7 +164,7 @@ npm run test:coverage       # Tests avec couverture
 Documentation complète disponible dans : http://localhost:5000/api-docs
 <tr>
     <td width="50%" align="center">
-      <img src="./docs/screenshots/tests/api-docs.png" alt="api docs" width="100%">
+      <img src="./docs/screenshots/apiDocs/api-docs.png" alt="api docs" width="100%">
       <br><b>APIs</b>
       <br><sub>APIs Documentation</sub>
     </td>
@@ -173,7 +173,7 @@ Documentation complète disponible dans : http://localhost:5000/api-docs
 ##  Aperçu de l'Application
 <tr>
     <td width="50%" align="center">
-      <img src="./docs/screenshots/tests/test_resul.png" alt="tests" width="100%">
+      <img src="./docs/screenshots/tests/test_result.png" alt="tests" width="100%">
       <br><b>Tests</b>
       <br><sub>Resultat du tests</sub>
     </td>
