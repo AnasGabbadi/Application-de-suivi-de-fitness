@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # FitTrack - Application de Suivi d'Entraînement
 
 Application web complète de gestion et suivi d'entraînement sportif développée avec la stack MERN (MongoDB, Express, React, Node.js).
@@ -280,4 +278,3 @@ Documentation complète disponible dans : http://localhost:5000/api-docs
 <p align="center">
   <sub>Interface entièrement responsive • Mode sombre inclus</sub>
 </p>
->>>>>>> 366cbdc8fe48040b5a9dba198ce4d9216d571ca5
