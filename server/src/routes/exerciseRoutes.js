@@ -382,7 +382,7 @@ router.post('/', protect, [
  *               imageUrl:
  *                 type: string
  *                 format: uri
- *                 example: https://example.com/new-image.jpg
+ *                 example: https://example.com/create-image.jpg
  *     responses:
  *       200:
  *         description: Exercice mis à jour avec succès
@@ -420,7 +420,7 @@ router.post('/', protect, [
  *                       example: Avancé
  *                     imageUrl:
  *                       type: string
- *                       example: https://example.com/new-image.jpg
+ *                       example: https://example.com/create-image.jpg
  *                     createdBy:
  *                       type: string
  *                       example: 507f1f77bcf86cd799439011

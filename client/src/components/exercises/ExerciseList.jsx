@@ -110,7 +110,7 @@ const ExerciseList = () => {
           </p>
         </div>
         <Link
-          to="/exercises/new"
+          to="/exercises/create"
           className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center gap-2 transition-colors shadow-lg hover:shadow-xl w-fit"
         >
           <Plus size={20} />
@@ -140,7 +140,7 @@ const ExerciseList = () => {
             Essayez de modifier vos filtres ou créez un nouvel exercice
           </p>
           <Link
-            to="/exercises/new"
+            to="/exercises/create"
             className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 font-medium"
           >
             <Plus size={18} />
