@@ -158,17 +158,26 @@ npm test                    # Lancer tous les tests
 npm run test:coverage       # Tests avec couverture
 
 ## Couverture actuelle
-text
-All files         |   90%+  |   90%+  |   100   |   90%+  |
-Controllers       |   88%   |   92%   |   100   |   87%   |
-Models            |   95%   |   75%   |   100   |   100   |
-Routes            |   100   |   100   |   100   |   100   |
-Middleware        |   100   |   95%   |   100   |   100   |
+
 
 ###  API Documentation Swagger
 Documentation complète disponible dans : http://localhost:5000/api-docs
+<tr>
+    <td width="50%" align="center">
+      <img src="./docs/screenshots/tests/api-docs.png" alt="api docs" width="100%">
+      <br><b>APIs</b>
+      <br><sub>APIs Documentation</sub>
+    </td>
+<tr>
 
 ##  Aperçu de l'Application
+<tr>
+    <td width="50%" align="center">
+      <img src="./docs/screenshots/tests/test_resul.png" alt="tests" width="100%">
+      <br><b>Tests</b>
+      <br><sub>Resultat du tests</sub>
+    </td>
+<tr>
 
 ###  Version Desktop
 
