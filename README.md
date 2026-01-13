@@ -1,6 +1,6 @@
-# 💪 FitTrack - Application de Suivi d'Entraînement
+# 💪 FitTrack - Suivi d'Entraînement Sportif
 
-Application web complète de gestion et suivi d'entraînement sportif développée avec la stack MERN (MongoDB, Express, React, Node.js).
+Application web full-stack de gestion d'entraînement sportif (MERN Stack). Suivi des exercices, programmes personnalisés, historique des séances et analyse de progression. JWT, tests unitaires 90%+, interface responsive.
 
 ## 🎯 Aperçu
 
