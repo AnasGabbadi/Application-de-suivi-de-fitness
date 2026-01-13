@@ -242,39 +242,3 @@ Documentation complète disponible dans : http://localhost:5000/api-docs
   <br><b>Profil</b>
   <br><sub>Gérer vos informations personnelles</sub>
 </p>
-
----
-
-###  Version Mobile
-
-<p align="center">
-  <img src="./docs/screenshots/Mobile/login.png" width="22%" alt="Login Mobile">
-  <img src="./docs/screenshots/Mobile/register.png" width="22%" alt="Register Mobile">
-  <img src="./docs/screenshots/Mobile/home.png" width="22%" alt="Home Mobile">
-  <img src="./docs/screenshots/Mobile/menu.png" width="22%" alt="Menu Mobile">
-</p>
-<p align="center">
-  <sub><b>Authentification • Inscription • Accueil • Menu</b></sub>
-</p>
-
-<p align="center">
-  <img src="./docs/screenshots/Mobile/panel.png" width="22%" alt="Panel Mobile">
-  <img src="./docs/screenshots/Mobile/exercises.png" width="22%" alt="Exercices Mobile">
-  <img src="./docs/screenshots/Mobile/programmes.png" width="22%" alt="Programmes Mobile">
-  <img src="./docs/screenshots/Mobile/logs.png" width="22%" alt="Logs Mobile">
-</p>
-<p align="center">
-  <sub><b>Dashboard • Exercices • Programmes • Historique</b></sub>
-</p>
-
-<p align="center">
-  <img src="./docs/screenshots/Mobile/progression.png" width="22%" alt="Progression Mobile">
-  <img src="./docs/screenshots/Mobile/profile.png" width="22%" alt="Profil Mobile">
-</p>
-<p align="center">
-  <sub><b>Progression • Profil</b></sub>
-</p>
-
-<p align="center">
-  <sub>Interface entièrement responsive • Mode sombre inclus</sub>
-</p>
